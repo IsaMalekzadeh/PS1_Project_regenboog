@@ -1,0 +1,106 @@
+[
+      {
+        "title": "Wat is het juiste bezittelijk voornaamwoord voor 'mon' in de zin 'C'est ___ stylo' (Dit is mijn pen) voor een vrouwelijk zelfstandig naamwoord?",
+        "answer_1": "ma",
+        "answer_2": "mes",
+        "answer_3": "mon",
+        "answer_4": "ton",
+        "right_answer": "ma"
+      },
+      {
+        "title": "Wat is het juiste bezittelijk voornaamwoord voor 'leur' in de zin 'C'est ___ maison' (Dit is hun huis) voor een meervoudig zelfstandig naamwoord?",
+        "answer_1": "leur",
+        "answer_2": "leurs",
+        "answer_3": "ton",
+        "answer_4": "ta",
+        "right_answer": "leur"
+      },
+      {
+        "title": "Welk voornaamwoord past in de zin 'Je ___ vois' (Ik zie haar)?",
+        "answer_1": "te",
+        "answer_2": "le",
+        "answer_3": "la",
+        "answer_4": "les",
+        "right_answer": "la"
+      },
+      {
+        "title": "Welk voornaamwoord past in de zin 'Tu ___ aimes' (Jij houdt van hem)?",
+        "answer_1": "te",
+        "answer_2": "le",
+        "answer_3": "la",
+        "answer_4": "les",
+        "right_answer": "le"
+      },
+      {
+        "title": "Wat is het juiste bijwoord in de zin 'Il parle ___' (Hij spreekt zacht)?",
+        "answer_1": "doucement",
+        "answer_2": "vite",
+        "answer_3": "lentement",
+        "answer_4": "tôt",
+        "right_answer": "doucement"
+      },
+      {
+        "title": "Wat is het juiste bijwoord in de zin 'Elle marche ___' (Zij loopt snel)?",
+        "answer_1": "doucement",
+        "answer_2": "vite",
+        "answer_3": "lentement",
+        "answer_4": "tôt",
+        "right_answer": "vite"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je vais ___ Paris' (Ik ga naar Parijs)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "au",
+        "answer_4": "dans",
+        "right_answer": "à"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je vais ___ États-Unis' (Ik ga naar de Verenigde Staten)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "au",
+        "answer_4": "dans",
+        "right_answer": "aux"
+      },
+      {
+          "title": "Wat is het juiste lidwoord voor 'piano'?",
+        "answer_1": "le",
+        "answer_2": "la",
+        "answer_3": "un",
+        "answer_4": "une",
+        "right_answer": "le"
+      },
+      {
+        "title": "Wat is het juiste lidwoord voor 'guitare'?",
+        "answer_1": "le",
+        "answer_2": "la",
+        "answer_3": "un",
+        "answer_4": "une",
+        "right_answer": "une"
+      },
+      {
+        "title": "Wat is het juiste lidwoord voor 'film'?",
+        "answer_1": "le",
+        "answer_2": "la",
+        "answer_3": "un",
+        "answer_4": "une",
+        "right_answer": "un"
+      },
+      {
+        "title": "Wat is het juiste lidwoord voor 'chocolat'?",
+        "answer_1": "le",
+        "answer_2": "la",
+        "answer_3": "un",
+        "answer_4": "une",
+        "right_answer": "du"
+      },
+      {
+        "title": "Wat is het juiste lidwoord voor 'thé'?",
+        "answer_1": "le",
+        "answer_2": "la",
+        "answer_3": "un",
+        "answer_4": "une",
+        "right_answer": "du"
+      }
+    ]

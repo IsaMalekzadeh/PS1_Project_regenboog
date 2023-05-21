@@ -1,0 +1,114 @@
+[
+      {
+        "title": "Welk voornaamwoord past in de zin 'Nous ___ écoutons' (We luisteren naar hen)?",
+        "answer_1": "me",
+        "answer_2": "te",
+        "answer_3": "leur",
+        "answer_4": "nous",
+        "right_answer": "les"
+      },
+      {
+        "title": "Welk voornaamwoord past in de zin 'Je ___ vois' (Ik zie hen)?",
+        "answer_1": "te",
+        "answer_2": "le",
+        "answer_3": "la",
+        "answer_4": "les",
+        "right_answer": "les"
+      },
+      {
+        "title": "Wat is het juiste bijvoeglijk naamwoord voor 'un chat' (een kat) die 'blanc' (wit) is?",
+        "answer_1": "blanc",
+        "answer_2": "blanche",
+        "answer_3": "blancs",
+        "answer_4": "blanches",
+        "right_answer": "blanc"
+      },
+      {
+        "title": "Wat is het juiste bijvoeglijk naamwoord voor 'une maison' (een huis) die 'cher' (duur) is?",
+        "answer_1": "cher",
+        "answer_2": "chère",
+        "answer_3": "chers",
+        "answer_4": "chères",
+        "right_answer": "chère"
+      },
+      {
+        "title": "Wat is het juiste bijvoeglijk naamwoord voor 'des fleurs' (bloemen) die 'joli' (mooi) zijn?",
+        "answer_1": "joli",
+        "answer_2": "jolie",
+        "answer_3": "jolis",
+        "answer_4": "jolies",
+        "right_answer": "jolies"
+      },
+      {
+        "title": "Wat is het juiste bijwoord in de zin 'Il travaille ___' (Hij werkt hard)?",
+        "answer_1": "doucement",
+        "answer_2": "vite",
+        "answer_3": "fort",
+        "answer_4": "dur",
+        "right_answer": "dur"
+      },
+      {
+        "title": "Wat is het juiste bijwoord in de zin 'Elle parle ___' (Zij spreekt zacht)?",
+        "answer_1": "doucement",
+        "answer_2": "vite",
+        "answer_3": "lentement",
+        "answer_4": "tôt",
+        "right_answer": "doucement"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je suis né ___ 1999' (Ik ben geboren in 1999)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "au",
+        "answer_4": "de",
+        "right_answer": "en"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je vais ___ plage' (Ik ga naar het strand)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "au",
+        "answer_4": "de",
+        "right_answer": "à"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je joue ___ tennis' (Ik speel tennis)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "au",
+        "answer_4": "de",
+        "right_answer": "au"
+      },
+      {
+        "title": "Welk voorzetsel gebruik je in de zin 'Je viens ___ France' (Ik kom uit Frankrijk)?",
+        "answer_1": "à",
+        "answer_2": "en",
+        "answer_3": "du",
+        "answer_4": "de",
+        "right_answer": "de"
+      },
+      {
+        "title": "Wat is de juiste vervoeging van het werkwoord 'aller' (gaan) in de tegenwoordige tijd, 3e persoon enkelvoud?",
+        "answer_1": "vais",
+        "answer_2": "vas",
+        "answer_3": "va",
+        "answer_4": "allons",
+        "right_answer": "va"
+      },
+      {
+        "title": "Wat is de juiste vervoeging van het werkwoord 'prendre' (nemen) in de tegenwoordige tijd, 2e persoon enkelvoud?",
+        "answer_1": "prend",
+        "answer_2": "prends",
+        "answer_3": "prendre",
+        "answer_4": "prenez",
+        "right_answer": "prends"
+      },
+      {
+        "title": "Wat is de juiste vervoeging van het werkwoord 'aller' (gaan) in de toekomende tijd, 1e persoon enkelvoud?",
+        "answer_1": "irai",
+        "answer_2": "iras",
+        "answer_3": "ira",
+        "answer_4": "allons aller",
+        "right_answer": "irai"
+      }
+    ]

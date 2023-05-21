@@ -1,0 +1,227 @@
+[
+
+    {
+
+        "title": " Wat is het juiste bepaalde lidwoord voor het mannelijke enkelvoudige zelfstandig naamwoord 'chien' (hond)?",
+
+        "answer_1": " le",
+
+        "answer_2": " la",
+
+        "answer_3": " les",
+
+        "answer_4": " l'",
+
+        "right_answer": " le"
+
+},
+
+    {
+
+        "title": " Wat is het juiste bepaalde lidwoord voor het vrouwelijke enkelvoudige zelfstandig naamwoord 'pomme' (appel)?",
+
+        "answer_1": " le",
+
+        "answer_2": " la",
+
+        "answer_3": " les",
+
+        "answer_4": " l'",
+
+        "right_answer": " la"
+
+},
+
+    {
+
+        "title": " Wat is het juiste bepaalde lidwoord voor het meervoudige zelfstandig naamwoord 'voitures' (auto's)?",
+
+        "answer_1": " le",
+
+        "answer_2": " la",
+
+        "answer_3": " les",
+
+        "answer_4": " l'",
+
+        "right_answer": " les"
+
+},
+
+    {
+
+        "title": " Wat is het juiste bepaalde lidwoord voor het zelfstandig naamwoord 'arbre' (boom) dat begint met een klinker?",
+
+        "answer_1": " le",
+
+        "answer_2": " la",
+
+        "answer_3": " les",
+
+        "answer_4": " l'",
+
+        "right_answer": " l'"
+
+},
+
+    {
+
+        "title": " Wat is het meervoud van het zelfstandig naamwoord 'chat' (kat)?",
+
+        "answer_1": " chats",
+
+        "answer_2": " chata",
+
+        "answer_3": " chatx",
+
+        "answer_4": " chates",
+
+        "right_answer": " chats"
+
+},
+
+    {
+
+        "title": " Wat is het meervoud van het zelfstandig naamwoord 'maison' (huis)?",
+
+        "answer_1": " maison",
+
+        "answer_2": " maisons",
+
+        "answer_3": " maisonx",
+
+        "answer_4": " maisones",
+
+        "right_answer": " maisons"
+
+},
+
+    {
+
+        "title": " Wat is het juiste onbepaalde lidwoord voor het zelfstandig naamwoord 'chien' (hond)?",
+
+        "answer_1": " un",
+
+        "answer_2": " une",
+
+        "answer_3": " des",
+
+        "answer_4": " les",
+
+        "right_answer": " un"
+
+},
+
+    {
+
+        "title": " Wat is het juiste onbepaalde lidwoord voor het zelfstandig naamwoord 'pomme' (appel)?",
+
+        "answer_1": " un",
+
+        "answer_2": " une",
+
+        "answer_3": " des",
+
+        "answer_4": " les",
+
+        "right_answer": " une"
+
+},
+
+    {
+
+        "title": " Wat is het juiste onbepaalde lidwoord voor het meervoudige zelfstandig naamwoord 'chats' (katten)?",
+
+        "answer_1": " un",
+
+        "answer_2": " une",
+
+        "answer_3": " des",
+
+        "answer_4": " les",
+
+        "right_answer": " des"
+
+},
+
+    {
+
+        "title": " Wat is het juiste onbepaalde lidwoord voor het meervoudige zelfstandig naamwoord 'maisons' (huizen)?",
+
+        "answer_1": " un",
+
+        "answer_2": " une",
+
+        "answer_3": " des",
+
+        "answer_4": " les",
+
+        "right_answer": " des"
+
+},
+
+    {
+
+        "title": " Wat is het juiste bijvoeglijk naamwoord voor 'une école' (een school) die 'grand' (groot) is?",
+
+        "answer_1": " grand",
+
+        "answer_2": " grande",
+
+        "answer_3": " grands",
+
+        "answer_4": " grandes",
+
+        "right_answer": " grande"
+
+},
+
+    {
+
+        "title": " Wat is het juiste bijvoeglijk naamwoord voor 'un chien' (een hond) die 'petit' (klein) is?",
+
+        "answer_1": " petit",
+
+        "answer_2": " petite",
+
+        "answer_3": " petits",
+
+        "answer_4": " petites",
+
+        "right_answer": " petit"
+
+},
+
+    {
+
+        "title": " Wat is het meervoud van het bijvoeglijk naamwoord 'rouge' (rood) voor 'des pommes' (appels)?",
+
+        "answer_1": " rouge",
+
+        "answer_2": " rougea",
+
+        "answer_3": " rouges",
+
+        "answer_4": " rouget",
+
+        "right_answer": " rouges"
+
+},
+
+    {
+
+        "title": " Wat is het meervoud van het bijvoeglijk naamwoord 'joli' (mooi) voor 'des arbres' (bomen)?",
+
+        "answer_1": " joli",
+
+        "answer_2": " jolia",
+
+        "answer_3": " jolis",
+
+        "answer_4": " jolit",
+
+        "right_answer": " jolis"
+
+}
+
+]
