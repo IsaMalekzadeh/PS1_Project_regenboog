@@ -1,5 +1,5 @@
 # PS1 Project Regenboog
-Dit is een repo van ons projectl. Wij hebben een website gemaakt waar verscillende uitdaging staan voor de studenten in de vorm van quizzen.
+Dit is een repo van ons project. Wij hebben een website gemaakt waar verscillende uitdaging staan voor de studenten in de vorm van quizzen.
 
 Groep JC2
 
